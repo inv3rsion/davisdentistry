@@ -1,0 +1,294 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_AA27772B_B8D5_9D9C_41E3_F43972203211.source = https://storage.net-fs.com/hosting/7705043/3/
+LinkBehaviour_A7A2C602_B748_A8EB_41E0_8F2A2422AF8B.source = https://www.findlay.dentist/bridges
+LinkBehaviour_A7A34603_B748_A8E9_41B9_13D0F04E1DE8.source = https://www.findlay.dentist/bridges
+LinkBehaviour_A4572971_B748_BB29_41D1_ADA33A7AEA9E.source = https://www.findlay.dentist/crowns
+LinkBehaviour_A456E971_B748_BB29_41D6_24CBB2B4EE9D.source = https://www.findlay.dentist/crowns
+LinkBehaviour_A0629C56_B73F_D96B_41E1_6045EBF80D97.source = https://www.findlay.dentist/extractions
+LinkBehaviour_A0623C56_B73F_D96B_41E2_2C64786B7DAD.source = https://www.findlay.dentist/extractions
+LinkBehaviour_BF9405EA_A917_96A6_41C7_FDFB4621C952.source = https://www.findlay.dentist/fillings
+LinkBehaviour_B1E4770C_A916_B362_41D0_05303EA794D6.source = https://www.findlay.dentist/fillings
+LinkBehaviour_AF9370C2_B7C9_A96B_41DD_3D9DECFB3C1D.source = https://www.findlay.dentist/orthodontics
+LinkBehaviour_A213C23F_B7CB_A919_41E3_2658CFCC5536.source = https://www.findlay.dentist/orthodontics
+LinkBehaviour_AD30C733_B748_5729_41CA_82F5F817B43C.source = https://www.findlay.dentist/our-staff
+LinkBehaviour_AB436135_B748_AB29_41CB_92BA4FC7A7EB.source = https://www.findlay.dentist/our-staff
+LinkBehaviour_AA2B2EDF_B748_7919_41E4_739D11B6FA53.source = https://www.findlay.dentist/our-staff
+LinkBehaviour_AD303733_B748_5729_41CB_AD48E844731D.source = https://www.findlay.dentist/our-staff
+LinkBehaviour_A56EFAA7_B758_7929_41E2_50E78BA1753A.source = https://www.findlay.dentist/preventive-care
+LinkBehaviour_A56F5AA8_B758_7927_41E5_FAC0DEDAD4DE.source = https://www.findlay.dentist/preventive-care
+LinkBehaviour_A0BD29B0_B7C7_BB27_41CA_3A2C41718F5E.source = https://www.findlay.dentist/root-canals
+LinkBehaviour_A0BDF9B0_B7C7_BB27_41CD_DDE5D8CD50AC.source = https://www.findlay.dentist/root-canals
+PopupWebFrameBehaviour_C3166AB4_D069_675A_41CB_267DB1C95D5F.url = //www.youtube.com/embed/PKxJ5ToBdcA?v=PKxJ5ToBdcA
+PopupWebFrameBehaviour_DE4A6DEB_CA40_7AD0_41DC_D1D221FA25E5.url = //www.youtube.com/embed/w6JPYikj1bY?v=w6JPYikj1bY
+PopupWebFrameBehaviour_D8911E26_CA40_3950_41D8_495D806DCC74.url = //www.youtube.com/embed/Mfo9rHE5-cg?t=16
+
+## E-Learning
+
+### Question Screen
+quizQuestion_2505226E_3798_D7C8_41C7_CD003E8E57BB.ok = OK
+
+### Report Screen
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.title = - SCORE -
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.completion = Completed
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.questionsCorrect = Correct
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.downloadCSV = Download .csv
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.questionsIncorrect = Incorrect
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.items = Items Found
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.questions = Questions
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.repeat = Repeat
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.submitToLMS = Submit
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_2505226E_3798_D7C8_41C8_2E567CEEDF2B.title = - TIMEOUT -
+quizTimeout_2505226E_3798_D7C8_41C8_2E567CEEDF2B.repeat = Repeat
+quizTimeout_2505226E_3798_D7C8_41C8_2E567CEEDF2B.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_12F65F72_0410_AE5A_418E_7F12102B8845.text =  Basic instruments used for  \
+ bridge and crown procedures
+HotspotPanoramaOverlayTextImage_82E4A601_98A3_CC12_41DC_7C653C574C49.text = Basic instruments used for  \
+Extraction procedures
+HotspotPanoramaOverlayTextImage_83EB3B0A_98A3_C416_41D7_C67FF8202768.text = Basic instruments used for  \
+applying fillings
+HotspotPanoramaOverlayTextImage_830CFFE4_98A3_5C12_41E0_8FCE010E0327.text = Basic instruments used for a Root Canal Procedure
+HotspotPanoramaOverlayTextImage_81651EC0_99E7_7C14_41B7_18E5A96994F1.text = Bridges and Crowns
+HotspotPanoramaOverlayTextImage_814B4271_99E1_C4F2_41D9_A805A46FEE1F.text = Cleaning and Preventative
+HotspotPanoramaOverlayTextImage_A7A13601_B748_A8E9_41C7_013F4BFBFD56.text = Learn more about Bridges
+HotspotPanoramaOverlayTextImage_A454D970_B748_BB27_41E6_8B7F2B4FCAD2.text = Learn more about Crowns
+HotspotPanoramaOverlayTextImage_A0604C55_B73F_D969_41D3_5CD661E47C99.text = Learn more about Extractions
+HotspotPanoramaOverlayTextImage_A0BB99AF_B7C7_BB39_41E1_16BD920B5F21.text = Learn more about Root Canals
+HotspotPanoramaOverlayTextImage_BA465D3A_A93E_B7A6_41D9_2914AF795674.text = Learn more about fillings
+HotspotPanoramaOverlayTextImage_A56C9AA7_B758_7929_41D7_6A54D5D75D71.text = Learn more about preventative procedures
+HotspotPanoramaOverlayTextImage_AA9ADA3F_B75B_B919_41E0_2C5FF8190F13.text = Meet our team
+HotspotPanoramaOverlayTextImage_AD31A732_B748_572B_4195_927CF2DFAB12.text = Meet our team
+HotspotPanoramaOverlayTextImage_810E88E3_99A1_4416_41A3_CCD0B7C6F0D3.text = Orthodontics
+HotspotPanoramaOverlayTextImage_AD332731_B748_5729_41A2_928FBDE6826F.text = Reception \
+
+HotspotPanoramaOverlayTextImage_888621E4_9D8E_26F6_41C5_BF3869F0BAE4.text = Reception \
+
+HotspotPanoramaOverlayTextImage_8FDD744E_98E0_C63C_41E2_5F9FA5577FD2.text = Reception \
+
+HotspotPanoramaOverlayTextImage_8E1E4501_99E1_4C12_41A5_BA6281B43CE9.text = Restorative Procedures
+HotspotPanoramaOverlayTextImage_8137A867_99A1_441E_41B2_AF7BC8FB7B8D.text = Root Canals
+HotspotPanoramaOverlayTextImage_8C3FE6D2_98A7_4227_41C5_5BD8AE72EE66.text = Scaler and Cavitron used during a routine cleaning appointment
+HotspotPanoramaOverlayTextImage_8137FA07_99E0_C41D_41AB_881EF0913F4F.text = Sterilization Lab
+HotspotPanoramaOverlayTextImage_811D3994_99E1_C432_41E0_948E8EC20C80.text = Sterilization Lab
+HotspotPanoramaOverlayTextImage_8103737E_99E3_C4EE_41B9_5A9A37DC5734.text = Surgical Procedures
+HotspotPanoramaOverlayTextImage_8F160C92_98E0_C624_41B4_A1394FF9EB27.text = Waiting Room
+HotspotPanoramaOverlayTextImage_81C1845F_99A1_4C2D_41E0_6AE8561D829A.text = X-ray Lab
+
+### Tooltip
+HotspotPanoramaOverlayArea_12DE811D_0413_B3CE_4184_63633B20B65C.toolTip = Crown and Bridge Cement
+HotspotPanoramaOverlayArea_1C401853_0411_525A_417D_D98201AF41FC.toolTip = Dental Bur
+HotspotPanoramaOverlayArea_1EA962DD_04F3_764E_4179_B2B20CEF1CE7.toolTip = Dental Chisel
+HotspotPanoramaOverlayArea_13A7ED1B_0411_B3CA_416B_2198C0286E9B.toolTip = Dental Tweezers
+HotspotPanoramaOverlayArea_1D020B0E_0410_D7CA_4181_AC43C2AAE953.toolTip = Dental Tweezers
+HotspotPanoramaOverlayArea_12BBF8A8_0410_D2F6_414A_080397BAFDA8.toolTip = Local Anaesthetic Syringe
+HotspotPanoramaOverlayArea_12FBC79E_0470_DECA_4183_46DFE6CE2926.toolTip = Mouth Mirror
+HotspotPanoramaOverlayArea_1DAF4725_0411_5FFE_416C_3244991A116B.toolTip = Periodontal Curette
+HotspotPanoramaOverlayArea_13547AB5_0413_76DE_414C_701E02C15D97.toolTip = Sickle Probe
+
+## Media
+
+### Image
+imlevel_A7CAD765_85C6_A8AA_41CD_A5E27079438F.url = media/panorama_84C38416_98A3_CC3E_41C4_7C0DD0ACC486_HS_sjaf364e_en.png
+imlevel_A65E3AC9_85C6_D9FA_41C2_C054BE19D0D9.url = media/panorama_850D9D70_98E0_FCF2_41E0_E50CFBC51047_HS_eyena4d6_en.png
+imlevel_A7CEE49D_85C6_A99A_41D8_E020F5612DB0.url = media/panorama_879496CB_98A0_CC16_41E3_212A5E63D195_HS_2ingnvec_en.png
+imlevel_A422D36B_85C6_E8BE_41AD_110E01448CCC.url = media/panorama_8C5CFAEF_98A1_43FD_41D8_C9E8590D25F7_HS_fh1mg51a_en.png
+imlevel_A555191F_85C6_F896_41D6_12DFA084980A.url = media/panorama_8C5CFAEF_98A1_43FD_41D8_C9E8590D25F7_HS_zdwfgyzb_en.png
+imlevel_A51557E6_85C5_57B6_41B7_CA21E18D70DD.url = media/panorama_AA28653F_A77A_9D48_41D8_99C3875398D0_HS_ezh23dqa_en.png
+imlevel_A51CDCA5_85C5_59AA_41D0_C1F0109EF472.url = media/panorama_AA28653F_A77A_9D48_41D8_99C3875398D0_HS_i8v5hdi7_en.png
+imlevel_A65A7E35_85C6_D8AA_41E0_3366A023D9D0.url = media/panorama_AA2A4B5E_A77D_95CB_41B4_0A280318202C_HS_v74nvvcb_en.png
+imlevel_A566B173_85C6_A8AE_41CD_26EC1A19BDB4.url = media/panorama_BA878FCD_A916_92E2_41E3_2847343E73BF_HS_21rda0f7_en.png
+imlevel_A56311D2_85C6_ABEE_41D7_6D6A1CB82692.url = media/panorama_BA878FCD_A916_92E2_41E3_2847343E73BF_HS_raj15aer_en.png
+imlevel_A575FA71_85C6_B8AA_41CB_96E3D45DD743.url = media/panorama_BA878FCD_A916_92E2_41E3_2847343E73BF_HS_t7uvxu0w_en.png
+imlevel_A569E789_85C6_A87A_41D3_F09C5C11492C.url = media/panorama_BB4A8B93_A92B_9366_4171_EBB9B7D5DD0B_HS_cvv8l7cf_en.png
+imlevel_A562123A_85C6_A89E_41D2_56CB14D12811.url = media/panorama_BB4A8B93_A92B_9366_4171_EBB9B7D5DD0B_HS_p7nh5my8_en.png
+imlevel_A547DED1_85C6_D9EA_41A3_E0F1958A5E47.url = media/panorama_BE0DD940_A87F_779B_41D1_BCE90C81AFF0_HS_mam7bv13_en.png
+imlevel_A5459F6F_85C6_D8B6_41DC_290D994FAD57.url = media/panorama_BE0DD940_A87F_779B_41D1_BCE90C81AFF0_HS_so5j4jp5_en.png
+imlevel_A5AAA18B_85C6_E87E_41C4_E08B2F87C958.url = media/panorama_BE477AD7_A873_0AA5_41D8_B5A8370AA0B4_HS_4qxtrpcb_en.png
+imlevel_A5F35E1E_85C6_D896_41D3_44652ACBC385.url = media/panorama_BE477AD7_A873_0AA5_41D8_B5A8370AA0B4_HS_nxbursyy_en.png
+imlevel_A4250130_85C6_E8AA_41BC_75398F7230DD.url = media/panorama_BE477AD7_A873_0AA5_41D8_B5A8370AA0B4_HS_uctpi8ik_en.png
+imlevel_A655079D_85C6_D79A_41E0_2ED7A4635D8C.url = media/panorama_BE5D9652_A871_1DBE_41C1_CAEE3CF83924_HS_hkk8lgg7_en.png
+imlevel_A5450BF9_85C6_FF9A_4182_D02C5B7C2D2B.url = media/panorama_BE953683_A873_1A9E_41E0_862C31CDAFEF_HS_73gu8bfa_en.png
+imlevel_A6AD72C0_85C6_E9EA_41DD_1C3AEA572432.url = media/panorama_BE953683_A873_1A9E_41E0_862C31CDAFEF_HS_jqpv7haw_en.png
+imlevel_A5435C68_85C6_F8BA_41DF_CA7A3819EBD9.url = media/panorama_BE953683_A873_1A9E_41E0_862C31CDAFEF_HS_rj3grjtq_en.png
+imlevel_A5A91443_85C6_E8EE_41B0_40CD614B5D69.url = media/panorama_BEA8BD29_A871_0FEA_41E0_C3E8E1A72160_HS_pser8a2r_en.png
+imlevel_A5AB9302_85C6_E86E_41B7_905304D560BE.url = media/panorama_BFFD97EF_A871_1A65_41B5_72F5C5DB5D7C_HS_zs560dsu_en.png
+imlevel_A51A9D21_85C5_58AA_41CC_B69AD8641C08.url = media/panorama_CA0581AE_D02F_2547_41A2_7271831DD75F_HS_0lljutqz_en.png
+imlevel_A50F52CE_85C5_69F6_41E0_9CEA2DB00A26.url = media/panorama_CA0581AE_D02F_2547_41A2_7271831DD75F_HS_hm8myiu5_en.png
+imlevel_A5675142_85C6_A8EE_41DF_0DEE63CB55FA.url = media/popup_13106A1F_0411_51CA_4190_C3FD736AB5E3_en_0_0.jpg
+imlevel_A5785142_85C6_A8EE_41B6_4CD8DCEE95D6.url = media/popup_13106A1F_0411_51CA_4190_C3FD736AB5E3_en_0_1.jpg
+imlevel_A5786142_85C6_A8EE_41C5_755A77FF9F3A.url = media/popup_13106A1F_0411_51CA_4190_C3FD736AB5E3_en_0_2.jpg
+imlevel_A5781142_85C6_A8EE_41DA_7658C386B9F2.url = media/popup_13106A1F_0411_51CA_4190_C3FD736AB5E3_en_0_3.jpg
+imlevel_A567C162_85C6_A8AE_41D4_587312FEAC2C.url = media/popup_1310A709_04F0_BFB6_418C_08115BD629B9_en_0_0.jpg
+imlevel_A567F162_85C6_A8AE_41C5_80621547D166.url = media/popup_1310A709_04F0_BFB6_418C_08115BD629B9_en_0_1.jpg
+imlevel_A5679162_85C6_A8AE_41AE_E434B9341960.url = media/popup_1310A709_04F0_BFB6_418C_08115BD629B9_en_0_2.jpg
+imlevel_A5678162_85C6_A8AE_41BA_4F5EE10583D0.url = media/popup_1310A709_04F0_BFB6_418C_08115BD629B9_en_0_3.jpg
+imlevel_A5662150_85C6_A8EA_41D8_17A4B9A22007.url = media/popup_13993FFE_04F7_6E4A_4157_5D3DC96EE8F4_en_0_0.png
+imlevel_A5783150_85C6_A8EA_41D6_EC1416E4A5A1.url = media/popup_13993FFE_04F7_6E4A_4157_5D3DC96EE8F4_en_0_1.png
+imlevel_A5782150_85C6_A8EA_41D1_D4AF048256F2.url = media/popup_13993FFE_04F7_6E4A_4157_5D3DC96EE8F4_en_0_2.png
+imlevel_A51D4C9B_85C5_599E_41D6_D1BBA7B16FF4.url = media/popup_821E6B19_98A1_4432_41D4_3074434A6927_en_0_0.jpg
+imlevel_A51E4C9B_85C5_599E_41D7_6C81EBB74A08.url = media/popup_821E6B19_98A1_4432_41D4_3074434A6927_en_0_1.jpg
+imlevel_A51E7C9B_85C5_599E_41D0_A63ED4E3952D.url = media/popup_821E6B19_98A1_4432_41D4_3074434A6927_en_0_2.jpg
+imlevel_A51E1C9B_85C5_599E_41C5_9858E09A1A3C.url = media/popup_821E6B19_98A1_4432_41D4_3074434A6927_en_0_3.jpg
+imlevel_A5691768_85C6_A8BA_41D3_900C09656016.url = media/popup_82C0F942_98A1_C416_41E2_80480C09E293_en_0_0.jpg
+imlevel_A5690768_85C6_A8BA_41CC_537B4AC8A73C.url = media/popup_82C0F942_98A1_C416_41E2_80480C09E293_en_0_1.jpg
+imlevel_A5693768_85C6_A8BA_41DA_833CC4758B2D.url = media/popup_82C0F942_98A1_C416_41E2_80480C09E293_en_0_2.jpg
+imlevel_A569D768_85C6_A8BA_41D6_2BD2FE970FED.url = media/popup_82C0F942_98A1_C416_41E2_80480C09E293_en_0_3.jpg
+imlevel_A500A2C2_85C5_69EE_41D5_1460A3086420.url = media/popup_82DE3602_98A3_CC16_41D5_E77E95ECFC46_en_0_0.jpg
+imlevel_A502D2C2_85C5_69EE_41CD_1A6F3EADCE08.url = media/popup_82DE3602_98A3_CC16_41D5_E77E95ECFC46_en_0_1.jpg
+imlevel_A502A2C2_85C5_69EE_41C8_36ECA0103368.url = media/popup_82DE3602_98A3_CC16_41D5_E77E95ECFC46_en_0_2.jpg
+imlevel_A50282C2_85C5_69EE_41DE_8F5FB1BEBD07.url = media/popup_82DE3602_98A3_CC16_41D5_E77E95ECFC46_en_0_3.jpg
+imlevel_A500D2BB_85C5_699E_418F_5068FDA7AF69.url = media/popup_82DF3602_98A3_CC16_41D8_8709872CB1F3_en_0_0.jpg
+imlevel_A50082BB_85C5_699E_41DA_CCFB3CB4109B.url = media/popup_82DF3602_98A3_CC16_41D8_8709872CB1F3_en_0_1.jpg
+imlevel_A50092BB_85C5_699E_41DA_687AC731C5A0.url = media/popup_82DF3602_98A3_CC16_41D8_8709872CB1F3_en_0_2.jpg
+imlevel_A50F62BB_85C5_699E_41C5_0B720FBA16B1.url = media/popup_82DF3602_98A3_CC16_41D8_8709872CB1F3_en_0_3.jpg
+imlevel_A5693778_85C6_A89A_41C8_EC30169964D7.url = media/popup_83F40871_98A1_44F2_41BF_5E72D8C639C3_en_0_0.jpg
+imlevel_A56A3778_85C6_A89A_41D1_7A645A881631.url = media/popup_83F40871_98A1_44F2_41BF_5E72D8C639C3_en_0_1.jpg
+imlevel_A56A2778_85C6_A89A_41D3_CA241F1FC104.url = media/popup_83F40871_98A1_44F2_41BF_5E72D8C639C3_en_0_2.jpg
+imlevel_A56AC778_85C6_A89A_41D4_1B999DB6CAED.url = media/popup_83F40871_98A1_44F2_41BF_5E72D8C639C3_en_0_3.jpg
+imlevel_A51D5C94_85C5_586A_41D7_C9B24A702AFF.url = media/popup_8527FAD9_98A0_C432_41B0_D026F05937CB_en_0_0.jpg
+imlevel_A51D4C94_85C5_586A_41D1_2D29EA6F9BC8.url = media/popup_8527FAD9_98A0_C432_41B0_D026F05937CB_en_0_1.jpg
+imlevel_A51D7C94_85C5_586A_41D1_AF7C9D7AB01D.url = media/popup_8527FAD9_98A0_C432_41B0_D026F05937CB_en_0_2.jpg
+imlevel_A51D6C94_85C5_586A_41DB_AE6AA329E059.url = media/popup_8527FAD9_98A0_C432_41B0_D026F05937CB_en_0_3.jpg
+imlevel_A555C8F7_85C6_F996_41C0_65656FF69804.url = media/popup_8D59A834_98A1_CE6C_41A9_728CEC7ED9C5_en_0_0.jpg
+imlevel_A555D8F7_85C6_F996_41D2_DDD17B67716C.url = media/popup_8D59A834_98A1_CE6C_41A9_728CEC7ED9C5_en_0_1.jpg
+imlevel_A55428F7_85C6_F996_41D9_03FED95B48B4.url = media/popup_8D59A834_98A1_CE6C_41A9_728CEC7ED9C5_en_0_2.jpg
+imlevel_A55438F7_85C6_F996_41DE_EF38876611B9.url = media/popup_8D59A834_98A1_CE6C_41A9_728CEC7ED9C5_en_0_3.jpg
+imlevel_A556F905_85C6_F86A_41CD_425A65ADF62C.url = media/popup_8EDC0567_98A0_C6EC_41C2_68F2F7472A7A_en_0_0.jpg
+imlevel_A557F905_85C6_F86A_41D0_D5C8747C360B.url = media/popup_8EDC0567_98A0_C6EC_41C2_68F2F7472A7A_en_0_1.jpg
+imlevel_A557C906_85C6_F876_41DE_33A13D600A2C.url = media/popup_8EDC0567_98A0_C6EC_41C2_68F2F7472A7A_en_0_2.jpg
+imlevel_A557D906_85C6_F876_41DC_C47249671C0F.url = media/popup_8EDC0567_98A0_C6EC_41C2_68F2F7472A7A_en_0_3.jpg
+imlevel_A5462BF2_85C6_FFAE_41D7_F7E52D5A70C0.url = media/popup_C2F4F77D_D019_EDC5_41D9_864AC05C51F9_en_0_0.jpg
+imlevel_A5472BF2_85C6_FFAE_41C5_F80165D6B70C.url = media/popup_C2F4F77D_D019_EDC5_41D9_864AC05C51F9_en_0_1.jpg
+imlevel_A5473BF2_85C6_FFAE_4199_38D484F9D31A.url = media/popup_C2F4F77D_D019_EDC5_41D9_864AC05C51F9_en_0_2.jpg
+imlevel_A5470BF2_85C6_FFAE_41E0_7AE43FC12C33.url = media/popup_C2F4F77D_D019_EDC5_41D9_864AC05C51F9_en_0_3.jpg
+imlevel_A575CA5D_85C6_B89A_41D6_F01D30730141.url = media/popup_C2FD7AF1_D029_24DD_41E9_A84494417F8A_en_0_0.jpg
+imlevel_A576CA5D_85C6_B89A_41D6_74D9C9C2FEFE.url = media/popup_C2FD7AF1_D029_24DD_41E9_A84494417F8A_en_0_1.jpg
+imlevel_A576EA5D_85C6_B89A_4172_BD89F9F92F21.url = media/popup_C2FD7AF1_D029_24DD_41E9_A84494417F8A_en_0_2.jpg
+imlevel_A576FA5D_85C6_B89A_41E0_191E6A80C0F2.url = media/popup_C2FD7AF1_D029_24DD_41E9_A84494417F8A_en_0_3.jpg
+
+### Popup Image
+
+### Title
+panorama_AA29A7AA_A77E_9D48_41D5_2D6C88B6E06D.label = Lab_01_HDR
+panorama_AA2A9243_A77D_7738_41D6_6348FDDA8720.label = Lab_02_HDR
+panorama_AA2A3758_A77D_9DD7_4197_707612514EB3.label = Lab_04_HDR
+panorama_AA29A240_A77D_9738_419D_AC3ADC2E7B2A.label = Lab_07_HDR
+panorama_AA2A4B5E_A77D_95CB_41B4_0A280318202C.label = Lab_Entrance_01_HDR
+panorama_BE0DD940_A87F_779B_41D1_BCE90C81AFF0.label = Lab_Entrance_02_HDR
+panorama_BFFD97EF_A871_1A65_41B5_72F5C5DB5D7C.label = Lobby_01_HDR
+panorama_AA29BDBD_A77D_AD48_41E4_4C09B15048A7.label = Lobby_02_HDR
+panorama_8C5CFAEF_98A1_43FD_41D8_C9E8590D25F7.label = OR1_04_HDR
+panorama_BEA8BD29_A871_0FEA_41E0_C3E8E1A72160.label = OR1_Entance_Retake_HDR
+panorama_FC26E893_E349_AEF7_41E1_A51450DDB894.label = OR2_Entrance_01
+panorama_BE5D9652_A871_1DBE_41C1_CAEE3CF83924.label = OR2_Entrance_01_HDR
+panorama_BA878FCD_A916_92E2_41E3_2847343E73BF.label = OR2_Low_01_HDR
+panorama_BE477AD7_A873_0AA5_41D8_B5A8370AA0B4.label = OR3_Entrance_01_HDR
+panorama_BB4A8B93_A92B_9366_4171_EBB9B7D5DD0B.label = OR3_Low_01_Normal
+panorama_3A62AFDF_3789_345B_41B5_BF3150628F09.label = OR4_01_HDR
+panorama_3B77C8E6_3789_5C6D_41BF_A142641582CA.label = OR4_02_HDR
+panorama_3B745182_3789_4CA4_41A2_7F04552891CB.label = OR4_03_HDR
+panorama_850D9D70_98E0_FCF2_41E0_E50CFBC51047.label = OR4_Entrance_01_HDR
+panorama_CA0581AE_D02F_2547_41A2_7271831DD75F.label = OR4_Low_01_HDR
+panorama_22AA2EF7_337C_57C1_41C3_F4E61160AB18.label = OR4_Low_02_HDR
+album_219B90CC_3799_D4C8_41CA_1E64B4C574AD_0.label = OR4_Tools_02_jpg
+panorama_AA29FFE9_A77A_ECC8_41E2_C06F141B034C.label = OR5_Entrance_01_HDR
+panorama_AA287AC8_A77A_F4C8_41BC_AF67115312E3.label = OR5_Entrance_02_HDR
+panorama_AA28653F_A77A_9D48_41D8_99C3875398D0.label = OR5_Low_01_HDR
+panorama_1ECD41D2_09D5_DB34_419B_8407558D1E8C.label = OR5_Low_03_HDR
+panorama_AA284AF8_A775_B4C8_41D7_1DE91081980E.label = OrthoLab_01_HDR
+panorama_84C38416_98A3_CC3E_41C4_7C0DD0ACC486.label = Ortho_01_HDR
+panorama_AA280055_A775_73D8_41E4_0C15176FF9B8.label = Ortho_02_HDR
+panorama_879496CB_98A0_CC16_41E3_212A5E63D195.label = Ortho_Hallway_HDR
+panorama_AA28103E_A775_B348_41D7_D835508FA326.label = Ortho_Low_HDR
+album_219B90CC_3799_D4C8_41CA_1E64B4C574AD.label = Photo Album OR4_Tools_02_jpg
+panorama_BE953683_A873_1A9E_41E0_862C31CDAFEF.label = Reception_01_HDR
+panorama_AA2BB19B_A775_B548_4198_7A61A68B507C.label = Reception_02_HDR
+photo_C3156F18_D017_5D4B_41BC_3C9F2EC3BAC9.label = Sanitization_Baldor_jpg
+photo_DD050E5F_CAC0_79F0_41D4_14B8924D2495.label = SterilizationLab_Statim_Gentle_Autoclave (2)
+panorama_F9F49D67_EAA7_41C7_41EC_CDDB2DC9D8B5.label = UpstairsLab_01_HDR
+panorama_F8DB46EC_EAA7_40C9_41EA_CDA41588B356.label = UpstairsLab_02_HDR
+panorama_F8DB8FE1_EAA7_40FA_41C6_426FA9B57745.label = UpstairsLab_03_HDR
+panorama_F8DBC942_EAA7_4139_41E0_DF421342A812.label = UpstairsLab_04_HDR
+panorama_F8DB920C_EAA7_4349_41EB_1E072958D874.label = UpstairsLab_05_HDR
+panorama_F8DBAADC_EAA7_40C9_41D1_D4E8C6625441.label = UpstairsLab_06_HDR
+panorama_F8DBF3C2_EAA4_C13E_41DC_C9E94A90F2FF.label = UpstairsLab_07_HDR
+panorama_F8DBACB4_EAA4_C759_41BF_218B9D6FD4C7.label = UpstairsLab_08_HDR
+
+## Popup
+
+### Body
+htmlText_DECD1E75_CAC0_39B1_41DC_4A27E2AE1916.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:20px;"><B>Rapid Sterilization coupled with rapid drying allows for quick turnaround when cleaning your instruments</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_C20F5AAF_D019_6745_41AF_15DCFD69F0BE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:20px;"><B>Used to polish your instruments</B></SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_D89ECE25_CA40_3950_41D6_4BE7A8A014ED.title = ASSISTINA MAINTENANCE SYSTEM
+window_C200BAAF_D019_6745_41DD_6EB37100DFF2.title = BALDOR POLISHING LATHE
+window_C3172AB4_D069_675A_41D5_B4D8C8CB549E.title = CAVITRON
+window_DE48BDEB_CA40_7AD0_41E4_FA75D1B3CDA8.title = MIDMARK M11 STEAM STERILIZER
+window_DEF34E75_CAC0_39B1_41D5_19968C473112.title = STATIM G4 CASSETTE STERILIZER
+
+## Skin
+
+### Button
+Button_AAD53883_B8DC_B493_41A9_9DED4ABE4229.label = BACK TO HOME
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = BRIDGE & CROWN
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = BRIDGE & CROWN
+Button_FA7DDFAC_EE4E_44CF_41D9_C4948B56E6C0_mobile.label = DENTURE LAB
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = PREVENTATIVE
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = PREVENTATIVE
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = RESTORATIVE
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = RESTORATIVE
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = ROOT CANAL
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = ROOT CANAL
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = STERILIZATION LAB
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = STERILIZATION LAB
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = SURGICAL
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = SURGICAL
+Button_FB6A73FF_EE4E_FC48_41C1_A3C6F7D931AC_mobile.label = X-RAY
+Button_FE4392A8_EE3A_3CF7_41D3_36F5A17E7BAE.label = X-RAY
+
+### Image
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+
+### Label
+Label_C9DB19FE_D029_24C6_41DC_C8FE894EFA79.text = BRIDGE & CROWN
+Label_FEDB07A0_EE3A_44F7_41E7_4D2A10D47BB8.text = DENTURE LAB
+Label_FA664896_EE47_CCD8_41D6_BF738275DD25_mobile.text = Denture Lab
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = PREventative
+Label_CC3DC613_D039_2F5E_41D1_CAD746763B8B.text = Restorative
+Label_CC1B4561_D039_2DFD_41BF_FF89595FE413.text = Root Canal
+Label_F1767782_D01B_2D3F_41E0_58FBA875CAD9_mobile.text = Root canal
+Label_CC3773B4_D038_E55B_41BB_D9DFB0E82221.text = SURGICAL
+Label_FAB6A610_EE4A_47D7_41E0_9469DE1D9ADF_mobile.text = X-Ray
+Label_F34CE649_E3D6_A253_41EA_7F76CCDFAD74.text = X-Ray
+Label_CE75262E_D019_2F46_41DF_3A1D37231D29_mobile.text = bridge & Crown
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = preventative
+Label_CE166E72_D019_7FDF_41B2_BB818EEE3E92_mobile.text = restorative
+Label_CE8ED881_D019_633D_41B8_9A74AFF94627_mobile.text = sterilization lab
+Label_CC24AAE6_D03B_64C6_41D8_89B49AD18B31.text = sterilization lab
+Label_F1BF5762_D01B_6DFF_41CC_70DD2041B4B1_mobile.text = surgical
+
+### Multiline Text
+HTMLText_ACD5DEE1_B7C8_5929_41B9_67F32453B5A7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:25px;"><B>Welcome to Davis Dentistry</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;"><B>Take a tour of our offices and learn about the different services we provide!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;"><B>Tap the circular hotspots to advance to the next location, or choose a destination at the bottom of the screen to teleport there immediately!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:12px;"><B>Interact with the informational hotspots to learn more!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
+HTMLText_F00EDA1E_D017_2746_41DA_BD4FF0DADE66.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:37px;"><B>Welcome to Davis Dentistry</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>Take a tour of our offices and learn about the different services we provide!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>Click the circular hotspots to advance to the next location, or choose a destination at the bottom of the screen to teleport there immediately!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>Interact with the informational hotspots to learn more!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Davis Dentistry Procedures
