@@ -1,0 +1,306 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_2505226E_3798_D7C8_41C7_CD003E8E57BB.ok = OK
+
+### Report Screen
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.title = - SCORE -
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.completion = Completed
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.questionsCorrect = Correct
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.downloadCSV = Download .csv
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.questionsIncorrect = Incorrect
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.items = Items Found
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.questions = Questions
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.repeat = Repeat
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.submitToLMS = Submit
+quizScore_250B326E_3798_D7C8_41B0_D90D61D3768C.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_2505226E_3798_D7C8_41C8_2E567CEEDF2B.title = - TIMEOUT -
+quizTimeout_2505226E_3798_D7C8_41C8_2E567CEEDF2B.repeat = Repeat
+quizTimeout_2505226E_3798_D7C8_41C8_2E567CEEDF2B.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_48B7F6F5_5C38_F751_41D1_404026C84726.text = CONGRATULATIONS
+HotspotPanoramaOverlayTextImage_5E5D7DF9_7459_0FE3_41C6_124C6676A34F.text = NEXT QUESTION
+HotspotPanoramaOverlayTextImage_5802A9E8_7449_37E2_41C3_776912344967.text = NEXT QUESTION
+HotspotPanoramaOverlayTextImage_5E80B05F_7459_14DF_41D0_E63E53E00A84.text = NEXT QUESTION
+HotspotPanoramaOverlayTextImage_593DB2E0_74CB_15E1_41BD_24C8011EDF5A.text = NEXT QUESTION
+HotspotPanoramaOverlayTextImage_4CA2003F_5C1B_8AD2_41C6_D3F3B2AC9C8C.text = On a Lower Molar Extraction, which two forceps are used?
+HotspotPanoramaOverlayTextImage_4CADE03E_5C1B_8AD2_41CE_6036A4942628.text = PREVIOUS QUESTION
+HotspotPanoramaOverlayTextImage_4BD86F50_5B19_E166_41A3_749B8995BED9.text = PREVIOUS QUESTION
+HotspotPanoramaOverlayTextImage_4C260B8A_50AF_A485_41A9_2762A40801D1.text = PREVIOUS QUESTION
+HotspotPanoramaOverlayTextImage_48B036F8_5C38_F75F_41C4_D7D3894AD4E5.text = PREVIOUS QUESTION
+HotspotPanoramaOverlayTextImage_59A2D435_74C7_3C62_41D8_B29FE690CE2B.text = SHOW RESULTS
+HotspotPanoramaOverlayTextImage_4537DAD1_517B_A22F_41CB_E777FF495FC1.text = SHOW SOLUTION
+HotspotPanoramaOverlayTextImage_5E5DFDF8_7459_0FE1_41BA_9B9AE30A7EAD.text = SHOW SOLUTION
+HotspotPanoramaOverlayTextImage_593C22DE_74CB_1421_41C1_F157CC5128F5.text = SHOW SOLUTION
+HotspotPanoramaOverlayTextImage_59A16434_74C7_3C62_41C1_C2DBE8B62DD7.text = SHOW SOLUTION
+HotspotPanoramaOverlayTextImage_5E80305C_7459_1421_41CF_A21FAFFCEB9B.text = SHOW SOLUTION
+HotspotPanoramaOverlayTextImage_4BD80F51_5B19_E166_41A7_F752FF424489.text = When a forcep is asked for and we are working on a Maxilla, which forcep should be handed to the surgeon?
+HotspotPanoramaOverlayTextImage_4C6EABA9_50BF_E487_41CF_22077DC365A1.text = When asked for a suture, which three instruments are needed?
+HotspotPanoramaOverlayTextImage_48B046F8_5C38_F75F_41C3_9872975F40B3.text = Which instrument is used to remove loose pieces of bone and tooth?
+HotspotPanoramaOverlayTextImage_45308C2E_517A_6674_41B1_2F172C11B7E5.text = Which two instruments should most commonly be handed to the surgeon first?
+
+### Tooltip
+HotspotPanoramaOverlayArea_4BD92F4C_5B19_E17D_41BD_C1BD015819DA.toolTip = 77 R
+HotspotPanoramaOverlayArea_48B646F1_5C38_F751_41D0_412A2ADCD688.toolTip = 77 R
+HotspotPanoramaOverlayArea_48B676F1_5C38_F751_41CF_C8DA49ED11CD.toolTip = 77 R
+HotspotPanoramaOverlayArea_4CA92034_5C1B_8AD6_41C3_A382D270F35F.toolTip = 77 R
+HotspotPanoramaOverlayArea_4CA8D034_5C1B_8AD6_41C2_6C390A433A5A.toolTip = 77 R
+HotspotPanoramaOverlayArea_4DE361AD_51BA_7E77_41C1_66853C89DAF7.toolTip = 77 R
+HotspotPanoramaOverlayArea_4BD8DF4C_5B19_E17D_41B1_FF751DCE0497.toolTip = 77 R
+HotspotPanoramaOverlayArea_4C6DEBA4_50BF_E48D_41CE_A8F5B701CAAE.toolTip = 77 R
+HotspotPanoramaOverlayArea_4C6C3BA3_50BF_E48B_41AE_86F6D0579875.toolTip = 77 R
+HotspotPanoramaOverlayArea_41BDB332_50AE_626D_41D4_1BF54A850F51.toolTip = 77 R
+HotspotPanoramaOverlayArea_4BD8EF4C_5B19_E17D_41D5_F674EC1F9FDC.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_48B616F0_5C38_F76F_41B2_65663CADC200.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_48B636F0_5C38_F76F_41D0_8A282326E051.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_4BD80F4B_5B19_E17B_4174_DB81D14B6A4D.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_4C6C7BA2_50BF_E485_41D2_B99B25839510.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_42C2E748_50AA_E23D_41A2_CD6553B79483.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_442DB015_516B_FE57_41D0_19CF35308B3A.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_4CA8F034_5C1B_8AD6_41D4_4B4706266903.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_4CA89033_5C1B_8AD2_417D_C851832D0077.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_4C6C4BA2_50BF_E485_41A1_D00FF06E8DF6.toolTip = 9 Molt
+HotspotPanoramaOverlayArea_48B506EB_5C38_F771_41CA_237711D07AF0.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_24E8434F_379B_55C8_41A1_0A51B33A0900.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4CABD02E_5C1B_8AF2_41D6_2025163E42CF.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4CAB602E_5C1B_8AF2_41D5_8072A7383114.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4BDE2F44_5B19_E16D_41D0_8FB9A754AB42.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4DB5DDAC_51A9_A674_41C8_688F4CD00738.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_48B5E6EB_5C38_F771_41D5_673A24DAFD64.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4BDFAF43_5B19_E16B_41CA_E98510424357.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4C13CB9C_50BF_E4BD_41D0_49DFE0F29DD4.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4C120B9B_50BF_E4BB_41D3_185247E551A1.toolTip = Blade w Holder
+HotspotPanoramaOverlayArea_4BD8AF4F_5B19_E17B_41D4_DC539B8CE50B.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_41B75B2D_50AA_6277_4197_C9F378606BF4.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_4BD88F4F_5B19_E17B_41B0_27559448A761.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_4C6AD65A_51A9_E2D2_41B9_6DA4A63118C3.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_48B716F5_5C38_F751_41D2_5A5BFA6E3E46.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_4C6DABA7_50BF_E48B_41AB_A2D5F376E8AC.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_4C6DFBA7_50BF_E48B_41CC_1AFA2066036D.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_48B716F6_5C38_F753_41C3_690C6A6318BF.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_4CAD303C_5C1B_8AD6_41BF_F200245985E1.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_4CACD03C_5C1B_8AD6_41CA_BFCF6B082789.toolTip = Cowhorn
+HotspotPanoramaOverlayArea_48B6E6F0_5C38_F76F_41D2_7F22B882CD57.toolTip = Curette
+HotspotPanoramaOverlayArea_2110B6F2_378B_DCD8_41CA_1FE1674B523D.toolTip = Curette
+HotspotPanoramaOverlayArea_4D2C70C9_51A6_DE3C_41D4_360660994F88.toolTip = Curette
+HotspotPanoramaOverlayArea_48B686F0_5C38_F76F_41B9_08081A210C67.toolTip = Curette
+HotspotPanoramaOverlayArea_4C6C9BA1_50BF_E487_41AC_4C2535024D59.toolTip = Curette
+HotspotPanoramaOverlayArea_4BD87F4B_5B19_E17B_41B2_6193356CF2B1.toolTip = Curette
+HotspotPanoramaOverlayArea_4BD82F4B_5B19_E17B_41A1_6429049B72F6.toolTip = Curette
+HotspotPanoramaOverlayArea_4CA87033_5C1B_8AD2_41D1_EEC10EA11448.toolTip = Curette
+HotspotPanoramaOverlayArea_4C6C4BA2_50BF_E485_41C9_FAC12780C27E.toolTip = Curette
+HotspotPanoramaOverlayArea_4CA85033_5C1B_8AD2_41B4_147071D4C0E0.toolTip = Curette
+HotspotPanoramaOverlayArea_4C6C8B9E_50BF_E4BD_41BB_3E944B3D66A2.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_4D654420_51AA_A66D_41C6_5A7983B1D694.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_48B656ED_5C38_F771_41D4_CCEA01842FCF.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_4C6C4B9F_50BF_E4BB_41C8_2C350217855A.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_4CAB5031_5C1B_8AEE_41D3_2FDF4A9970A6.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_48B7A6EE_5C38_F773_41C6_950EF54209E5.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_4BD95F49_5B19_E167_4172_3665F96006C8.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_4BD97F49_5B19_E167_41A1_1F9A67B7741B.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_203B1CE5_37BB_2CF8_41AC_89EF6EE7BA6B.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_4CABA031_5C1B_8AEE_41C5_DB76CA58C139.toolTip = Curved Hemostat
+HotspotPanoramaOverlayArea_48B756F6_5C38_F753_41C1_7AE92A9ED39F.toolTip = East West Elevator
+HotspotPanoramaOverlayArea_4C4D024E_51A7_A234_41BC_94D387AD2364.toolTip = East West Elevator
+HotspotPanoramaOverlayArea_4BDB6F50_5B19_E165_41C3_460B14725735.toolTip = East West Elevator
+HotspotPanoramaOverlayArea_4C6D5BA8_50BF_E485_41D4_69D58F6A6137.toolTip = East West Elevator
+HotspotPanoramaOverlayArea_4CAD203D_5C1B_8AD6_41D4_1AA47914C4B2.toolTip = East West Elevator
+HotspotPanoramaOverlayArea_4CAD003D_5C1B_8AD6_41C8_E3D7DDFB0E28.toolTip = East-West Elevator
+HotspotPanoramaOverlayArea_4C6D7BA8_50BF_E485_41CB_6B5DBE8255F8.toolTip = East-West Elevator
+HotspotPanoramaOverlayArea_4BDB4F50_5B19_E165_41AA_3FE15E302889.toolTip = East-West Elevator
+HotspotPanoramaOverlayArea_42A90FA3_5166_A26C_41D1_4088D597A60A.toolTip = East-West Elevator
+HotspotPanoramaOverlayArea_48B0B6F7_5C38_F751_41C3_6893F74A8A01.toolTip = East-West Elevator
+HotspotPanoramaOverlayArea_4BD99F46_5B19_E16D_41C9_0B17706D5D68.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4CA85030_5C1B_8AEE_41CD_343034079FDE.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4BD87F46_5B19_E16D_41D4_5E9BC9DF630C.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_48B6C6EC_5C38_F777_41D4_B2BD64F9C0DD.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_48B6E6EC_5C38_F777_41A1_E4F37F979FA1.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4CA8B030_5C1B_8AEE_41BF_159B99284CFA.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4C1ED4F6_51A6_A7D4_41BA_E02A4D087ED9.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4C135B9D_50BF_E4BF_41D3_D629EC3DC770.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4C131B9D_50BF_E4BF_41D2_74749CA6C3C8.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_2067E8F7_37B8_F4D9_41CA_74B6EB2B58A6.toolTip = Gel Foam
+HotspotPanoramaOverlayArea_4C78669D_51AF_A257_41CE_F73F462E16FA.toolTip = Large Round
+HotspotPanoramaOverlayArea_4C6D7BA5_50BF_E48F_41C7_01EC075AA8C3.toolTip = Large Round
+HotspotPanoramaOverlayArea_4C6D1BA5_50BF_E48F_41B0_7ABE2F47A592.toolTip = Large Round
+HotspotPanoramaOverlayArea_4287A110_50AE_7E2D_41B1_7D40E4B408E6.toolTip = Large Round
+HotspotPanoramaOverlayArea_4BD9BF4D_5B19_E17F_41AB_790D54E5819E.toolTip = Large Round
+HotspotPanoramaOverlayArea_48B7D6F2_5C38_F753_41D0_439909788982.toolTip = Large Round
+HotspotPanoramaOverlayArea_48B736F2_5C38_F753_41D7_099D7D8E72D9.toolTip = Large Round
+HotspotPanoramaOverlayArea_4CABC035_5C1B_8AD6_41B3_D2753794FDE1.toolTip = Large Round
+HotspotPanoramaOverlayArea_4CA81035_5C1B_8AD6_41BA_EE7B7620D549.toolTip = Large Round
+HotspotPanoramaOverlayArea_4BD99F4D_5B19_E17F_41C4_802152C09463.toolTip = Large Round
+HotspotPanoramaOverlayArea_4CACB03C_5C1B_8AD6_41D4_268BDD983C6C.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4DDA7E5D_51AA_E2D4_41B4_3BE2F10C9795.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4BD80F4E_5B19_E17D_41C4_BC208BDC03F3.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4BD8EF4F_5B19_E17B_41BC_48F3DF1A0423.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4CAC803C_5C1B_8AD6_41D0_AAEFB32D4717.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4C6C2BA6_50BF_E48D_41B1_76EAF3754ADF.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_48B096F4_5C38_F757_41B0_A06A327ED0B1.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_48B0B6F3_5C38_F751_41BF_5F81B1989B11.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_43A95AE8_50A9_E3FC_41CA_DE5044E5CCE5.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4C6DCBA7_50BF_E48B_41C8_A3E6E5F81C86.toolTip = Mandibular Forcep
+HotspotPanoramaOverlayArea_4DE55633_51AE_6253_41C3_400FF4B0536A.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_48B766F3_5C38_F751_41D1_DF5E1695DB2F.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4C6C5BA6_50BF_E48D_41D3_DB5C9BB2B845.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4202BFAB_50AE_6273_41D0_2DAFF34F869B.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_48B706F3_5C38_F751_41C2_D07F1A5115F3.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4BD82F4E_5B19_E17D_41BE_32D03E5629E5.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4CA84036_5C1B_8AD2_41D2_AB954EE1BF25.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4CA86036_5C1B_8AD2_418D_22596AD9944A.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4BD87F4E_5B19_E17D_41C5_9C249D9AB0B9.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4C6CBBA6_50BF_E48D_419A_BEFD8CB57A78.toolTip = Maxillary Forcep
+HotspotPanoramaOverlayArea_4CA83032_5C1B_8AD2_41D1_52CD52D2CA46.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_4BD99F4A_5B19_E165_41C0_D889C57EABEA.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_4CA81032_5C1B_8AD2_41D0_359B09C96358.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_4BD9BF4A_5B19_E165_41D5_18B659D66674.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_4C6DEBA0_50BF_E485_41CA_58EBD8A7D845.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_205F966C_3787_7FC8_41C9_E34F1E43B372.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_45A4FC17_516E_A653_41C3_3376B7825ACF.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_4C6C3BA0_50BF_E485_41C3_608E9F5B498A.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_48B716EF_5C38_F771_41C3_00C53772ADD5.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_48B736EF_5C38_F771_41D5_5FFD3C8C8726.toolTip = Minnesota Retractor
+HotspotPanoramaOverlayArea_4CABE032_5C1B_8AD2_41AE_929ED150AAA2.toolTip = Needle Driver
+HotspotPanoramaOverlayArea_48B7E6EE_5C38_F773_41B3_6A3ECA246DE3.toolTip = Needle Driver
+HotspotPanoramaOverlayArea_215C7C2A_37B9_3348_41C0_3ACE215DF793.toolTip = Needle Driver
+HotspotPanoramaOverlayArea_4C6C0B9F_50BF_E4BB_41D3_7D12275163BE.toolTip = Needle Driver
+HotspotPanoramaOverlayArea_4BD9EF4A_5B19_E165_41D6_39911A47E954.toolTip = Needle Driver
+HotspotPanoramaOverlayArea_4C516E91_51AA_622F_41D3_1BE28926C449.toolTip = Needle Driver
+HotspotPanoramaOverlayArea_4C6EDBA9_50BF_E487_41B6_B1B7A5077010.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_48B0D6F7_5C38_F751_41A6_B39EFE4ACE20.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4BD9AF50_5B19_E165_41C7_70CFB878776D.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4BD98F50_5B19_E166_41BC_850602EB0E08.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_48B0F6F7_5C38_F751_41BA_EA23FD053DE1.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4CAD503D_5C1B_8AD6_41AE_3BA003877E53.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4CADA03E_5C1B_8AD2_418C_E710F15601F3.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4DFCCFB3_5199_E26C_4196_DCDDFD730754.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4C6D3BA8_50BF_E485_41B0_0DD41222A847.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_450F26FD_5166_63D4_41C9_A96318405F02.toolTip = Pedo Forcep
+HotspotPanoramaOverlayArea_4CABF035_5C1B_8AD6_41CA_151B892386F9.toolTip = Small Round
+HotspotPanoramaOverlayArea_4CAB9035_5C1B_8AD6_41C9_B955FBA3397D.toolTip = Small Round
+HotspotPanoramaOverlayArea_416A855F_50AF_E6D3_41CA_D6918448AE5C.toolTip = Small Round
+HotspotPanoramaOverlayArea_48B7A6F1_5C38_F751_41B8_B44FFDB625F3.toolTip = Small Round
+HotspotPanoramaOverlayArea_4AA7C362_51BB_E2ED_4190_01932018E21A.toolTip = Small Round
+HotspotPanoramaOverlayArea_4C6DABA4_50BF_E48D_41BB_D99887B24CC3.toolTip = Small Round
+HotspotPanoramaOverlayArea_4BD91F4D_5B19_E17F_4194_C125B484C377.toolTip = Small Round
+HotspotPanoramaOverlayArea_4C6D8BA4_50BF_E48D_41CC_E4463C5AF002.toolTip = Small Round
+HotspotPanoramaOverlayArea_4BD9CF4D_5B19_E17F_41A0_BD4D8E694090.toolTip = Small Round
+HotspotPanoramaOverlayArea_48B786F1_5C38_F751_41BA_69D9526CF2F4.toolTip = Small Round
+HotspotPanoramaOverlayArea_48B6A6EC_5C38_F777_41B6_8C0E5CEF6EF9.toolTip = Suture
+HotspotPanoramaOverlayArea_48B686EC_5C38_F777_41CC_DCFD85807270.toolTip = Suture
+HotspotPanoramaOverlayArea_4BDEBF45_5B19_E16F_4194_257190669A60.toolTip = Suture
+HotspotPanoramaOverlayArea_20D80951_37B8_F5D8_41BB_D3DD7EE88813.toolTip = Suture
+HotspotPanoramaOverlayArea_4DC43651_51BB_A22C_41C9_31FC1B9FBD8D.toolTip = Suture
+HotspotPanoramaOverlayArea_4CA8702F_5C1B_8AF2_41D2_2A5DF750FCB0.toolTip = Suture
+HotspotPanoramaOverlayArea_4C13BB9D_50BF_E4BF_41B1_B59801D425ED.toolTip = Suture
+HotspotPanoramaOverlayArea_4CA8102F_5C1B_8AF2_41B8_C0A94483989F.toolTip = Suture
+HotspotPanoramaOverlayArea_4C138B9C_50BF_E4BD_4162_EA10C1B0773C.toolTip = Suture
+HotspotPanoramaOverlayArea_4BDEDF44_5B19_E16D_41CE_74EB7C8D86A7.toolTip = Suture
+HotspotPanoramaOverlayArea_4C6CEB9E_50BF_E4BD_41D2_6C0F4D94AF7F.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_20F63B69_37BB_75C8_41AE_5B666548F0D9.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_4BD80F47_5B19_E16B_41C2_955FF6AF0A93.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_4BD85F47_5B19_E16B_41D1_59A2C443A14E.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_4CAB7031_5C1B_8AEE_41D3_5F960012BD45.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_4D14D67C_51A7_A2D5_41C0_772FD896E519.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_4C6CCB9E_50BF_E4BD_41D1_6408378382C7.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_48B616ED_5C38_F771_41D2_3B1A07ACA3B1.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_4CA88030_5C1B_8AEE_41B1_B689C2438A3E.toolTip = Suture Scissors
+HotspotPanoramaOverlayArea_48B676ED_5C38_F771_41CA_A695F2765351.toolTip = Suture Scissors
+
+## Media
+
+### Image
+imlevel_A14F64B7_86CF_A996_41B2_569A879FBE02.url = media/panorama_26E3B12E_3789_4DFD_41A1_800B3C15EB30_HS_2wopy0th_en.png
+imlevel_A148346E_86CF_A8B6_41DC_439108F75310.url = media/panorama_26E3B12E_3789_4DFD_41A1_800B3C15EB30_HS_e082pzdw_en.png
+imlevel_A148644F_86CF_A8F6_41E0_9C18D8EE68C2.url = media/panorama_26E3B12E_3789_4DFD_41A1_800B3C15EB30_HS_sje5efe0_en.png
+imlevel_A15ED796_86CF_B796_41DD_BEA11BEDDE4E.url = media/panorama_468DE2DE_51A6_63D5_41B7_7EF407BF5A4F_HS_1utlmhpy_en.png
+imlevel_A158E779_86CF_A89A_41D0_1C2167106A64.url = media/panorama_468DE2DE_51A6_63D5_41B7_7EF407BF5A4F_HS_lsvrdqdy_en.png
+imlevel_A15AE72F_86CF_A8B6_41C0_7D62A779639A.url = media/panorama_468DE2DE_51A6_63D5_41B7_7EF407BF5A4F_HS_m0ro2voq_en.png
+imlevel_A15A070F_86CF_A876_41D8_6BB979AF919B.url = media/panorama_468DE2DE_51A6_63D5_41B7_7EF407BF5A4F_HS_odojsht2_en.png
+imlevel_A10C8031_86CF_A8AA_41B7_D9AC0158E0DB.url = media/panorama_4C1C13AC_5B27_213E_41C6_E9F21C1852F7_HS_1j525n80_en.png
+imlevel_A10E9FC6_86CF_B7F6_41B9_0AF1D294AA49.url = media/panorama_4C1C13AC_5B27_213E_41C6_E9F21C1852F7_HS_c5sln61t_en.png
+imlevel_A1087FA6_86CF_B7B6_41D4_C6532A71EAE3.url = media/panorama_4C1C13AC_5B27_213E_41C6_E9F21C1852F7_HS_dee0nt2v_en.png
+imlevel_A10C9013_86CF_A86E_41C4_DFA215384903.url = media/panorama_4C1C13AC_5B27_213E_41C6_E9F21C1852F7_HS_mufhtasd_en.png
+imlevel_A10B4F86_86CF_B876_41DC_D983D2D99F80.url = media/panorama_4C1C13AC_5B27_213E_41C6_E9F21C1852F7_HS_s5040716_en.png
+imlevel_A17BBCC9_86CF_B9FA_41D6_E2BA9BE0D235.url = media/panorama_4E4756C2_5B29_2365_41A7_577CE9A7AB4E_HS_62is2h0l_en.png
+imlevel_A17FFD41_86CF_B8EA_41A0_67C678A59EBD.url = media/panorama_4E4756C2_5B29_2365_41A7_577CE9A7AB4E_HS_7tl6urnr_en.png
+imlevel_A178CCE9_86CF_B9BA_41D4_4D8808EFB3BD.url = media/panorama_4E4756C2_5B29_2365_41A7_577CE9A7AB4E_HS_ftwbwueh_en.png
+imlevel_A17E1D23_86CF_B8AE_41DF_D6635A28C280.url = media/panorama_4E4756C2_5B29_2365_41A7_577CE9A7AB4E_HS_mfdyhxh8_en.png
+imlevel_A16EBA62_86CF_B8AE_41C3_9BB981D87528.url = media/panorama_55335595_5B1F_21EE_4178_F6885B5759C1_HS_3wmg1bra_en.png
+imlevel_A15509D5_86CF_BBEA_41E0_ABA4A894CDA6.url = media/panorama_55335595_5B1F_21EE_4178_F6885B5759C1_HS_8clall9k_en.png
+imlevel_A16E7A80_86CF_B86A_41CE_C9FD5B4BE13A.url = media/panorama_55335595_5B1F_21EE_4178_F6885B5759C1_HS_fnkigbpg_en.png
+imlevel_A16A59FF_86CF_BB96_41C0_B6A5FD6CC2BC.url = media/panorama_55335595_5B1F_21EE_4178_F6885B5759C1_HS_kat3fkah_en.png
+imlevel_A100A09D_86CF_A99A_41D7_0805698665D2.url = media/popup_4481901A_7459_1421_41A7_95EA3F0DECF2_en_0_0.jpg
+imlevel_A100C09D_86CF_A99A_41D1_70D8797B7FA7.url = media/popup_4481901A_7459_1421_41A7_95EA3F0DECF2_en_0_1.jpg
+
+### Popup Image
+
+### Title
+panorama_26E3B12E_3789_4DFD_41A1_800B3C15EB30.label = OR4_02_HDR_Q1
+panorama_468DE2DE_51A6_63D5_41B7_7EF407BF5A4F.label = OR4_02_HDR_Q2
+panorama_55335595_5B1F_21EE_4178_F6885B5759C1.label = OR4_02_HDR_Q3
+panorama_4E4756C2_5B29_2365_41A7_577CE9A7AB4E.label = OR4_02_HDR_Q4
+panorama_4C1C13AC_5B27_213E_41C6_E9F21C1852F7.label = OR4_02_HDR_Q5
+album_219B90CC_3799_D4C8_41CA_1E64B4C574AD_0.label = OR4_Tools_02_jpg
+album_219B90CC_3799_D4C8_41CA_1E64B4C574AD.label = Photo Album OR4_Tools_02_jpg
+
+## Skin
+
+### Button
+Button_501FDFA0_744F_7357_41CA_A829DD23FAD7.label = NEXT QUESTION
+Button_4756002B_5C78_8AF2_41D5_81F362BD9599.label = NEXT QUESTION
+Button_47054F9C_5C78_95D7_41B7_B338532604B9.label = NEXT QUESTION
+Button_47C561BC_5C67_8DD6_41B5_34545B37A71F.label = NEXT QUESTION
+Button_52031D4C_7459_17EF_41C1_3DE0A4227621.label = NEXT QUESTION
+Button_5C5A46F0_745B_12B7_41B1_7C710B826096.label = NEXT QUESTION
+Button_46E22E80_5C68_77AE_41D4_E68302163B77.label = NEXT QUESTION
+Button_520DBA9D_7459_1D69_4189_BA697C82F8EC.label = NEXT QUESTION
+Button_47855E0B_5C78_76B2_41B4_2971E4111E7D.label = PREVIOUS QUESTION
+Button_40EC4738_5C7B_96DE_416D_F0CA2EBFE748.label = PREVIOUS QUESTION
+Button_45F36080_5C6B_8BAE_41D4_74766CD9E46A.label = PREVIOUS QUESTION
+Button_40406688_5C78_97BE_4185_E8CC069963AE.label = PREVIOUS QUESTION
+Button_502F441B_744B_F569_41D4_71EDBBE09AAF.label = PREVIOUS QUESTION
+Button_531BADE2_7479_16DB_41CC_5C65253E4DCF.label = PREVIOUS QUESTION
+Button_532247A0_7479_F357_41D7_5FB0EBF2F5A6.label = PREVIOUS QUESTION
+Button_53938D1A_7447_376B_41B6_3DA22A8E5989.label = PREVIOUS QUESTION
+Button_5C64104D_744A_EDE9_41D6_EC849F9B7CA1.label = SHOW RESULTS
+Button_55ED7E29_74C9_35A9_41C4_3738D0FF1E66.label = SHOW RESULTS
+Button_615C7164_747B_6FDF_41CF_B0FD266991C0.label = SHOW SOLUTION
+Button_612DD342_7447_13DB_41D4_A40E409D8DD5.label = SHOW SOLUTION
+Button_611B45F7_7479_16B9_41D2_FDD8A253A104.label = SHOW SOLUTION
+Button_6108C428_747A_F5A8_41D3_D03F96A827A5.label = SHOW SOLUTION
+Button_6610DE21_7459_1558_41C3_C37F7E034FCF.label = SHOW SOLUTION
+Button_534F5969_7449_3FA9_41DD_202D860DAB0E.label = SHOW SOLUTION
+Button_58754DB5_7479_76B9_41CC_CDC93FA4BF52.label = SHOW SOLUTION
+Button_5DA45275_747B_2DB9_41CE_E0330DF88D34.label = SHOW SOLUTION
+Button_5F0FB5B9_7479_16A8_41D1_55529323AF07.label = SHOW SOLUTION
+Button_5D956FDF_7479_12E9_41DA_541F77FE180C.label = SHOW SOLUTION
+
+### Image
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+
+### Multiline Text
+HTMLText_5E742FF4_744B_12B8_41AE_C5188BA14C1B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:20px;"><B>Surgical Training Module</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;"><B>Read the question for each scene, and then select the correct instruments to move on to the next question. You must have all the possible points in the scene to move on.  </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;"><B>Pinch out on the screen to zoom the image in for a closer look.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;"><B>If you're having trouble getting the correct answer, select the "Show Solution" button. You must still select the correct insturments to move on.</B></SPAN></SPAN></DIV></div>
+HTMLText_F00EDA1E_D017_2746_41DA_BD4FF0DADE66.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:37px;"><B>Surgical Training Module</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>Scroll over the instruments with your mouse to see what they are. Zoom in with your scroll wheel to get a closer look. Read the question for each scene, and then select the correct instruments to move on to the next question. You must have all the possible points in the scene to move on.  </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>If you're having trouble getting the correct answer, select the "Show Solution" button. You must still select the correct insturments to move on.</B></SPAN></SPAN></DIV></div>
+HTMLText_5182854F_743B_37E8_41D0_9EA4020EAD5C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat ExtraBold';"><B>SCENE SCORE:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat SemiBold';"><B>{{quiz.media.score}} / {{quiz.media.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_50160B4A_7447_13EB_4133_88660C635308.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat ExtraBold';"><B>TOTAL SCORE:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Montserrat SemiBold';"><B>{{quiz.global.score}} / {{quiz.global.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_71D8E1A2_509B_E485_41D2_A589453DA3F8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Montserrat ExtraBold';"><B>SCENE SCORE:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Montserrat SemiBold';"><B>{{quiz.media.score}} / {{quiz.media.score.total}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
+HTMLText_723B99D3_50BA_648B_41D2_9C9FC52C9BAF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Montserrat ExtraBold';"><B>TOTAL SCORE:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Montserrat SemiBold';"><B>{{quiz.global.score}} / {{quiz.global.score.total}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:30px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:'Arial, Helvetica, sans-serif';"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Davis Dentistry Surgical Quiz
